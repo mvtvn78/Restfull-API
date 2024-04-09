@@ -16,6 +16,7 @@ For the story tell you about API working and so API is waiter.
 ## REST stands for Representational State Transfer
 ### How RESTful Work
 ![ResfulWork](https://topdev.vn/blog/wp-content/uploads/2019/04/restful-rest-diagram-api.jpg)
+<br>
 **REST primarily based on the HTTP protocol.The basic operations outlined above will utilize specific HTTP methods:**
 - GET(SELECT) : Used to retrieve data
 - POST(CREATE) : Creates a new resource.
